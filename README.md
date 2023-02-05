@@ -1,2 +1,4 @@
-# 《Cascaded Iterative Transformer with information compensation for Face Multi-task Learning》
+# 《Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose》
 Code and dataset are waiting for release.
+
+
