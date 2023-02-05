@@ -12,6 +12,6 @@ In this paper, we propose a **transformer-based sota algorithm** for Facial Land
 <div align=center><img width="900" height="350" src="https://user-images.githubusercontent.com/74582832/216808388-add6e219-d735-4581-ace9-a0513285b76c.png" alt="pose estimation"/></div>
 
 # Implementations
-Code and dataset will be released soon.
+Code and dataset will be released soon. Stay tuned!
 
 
