@@ -12,7 +12,7 @@ In this paper, we propose a **transformer-based sota algorithm** for Facial Land
 <div align=center><img width="380" height="270" src="https://user-images.githubusercontent.com/74582832/217823598-67a433ad-374a-4f62-9810-7d0218907c2d.png" alt="occlusion estimation"/></div>
 
 - Landmark Detection (_trained on 300W-LP, tested on AFLW2000-3D_)
-<div align=center><img width="380" height="270" src="https://user-images.githubusercontent.com/74582832/217823621-5d9cda45-f984-44ed-85a9-7982d7e508bd.png" alt="landmark detection"/></div>
+<div align=center><img width="380" height="270" src="https://user-images.githubusercontent.com/74582832/217823974-59ff347d-0797-4bf5-bc41-4449f78646d6.png" alt="landmark detection"/></div>
 
 # Implementations
 Code and dataset will be released soon. Stay tuned!
