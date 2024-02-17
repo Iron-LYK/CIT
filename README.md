@@ -15,7 +15,7 @@ In this paper, we propose a Transformer-based multi-tasking model for Facial Lan
 
 ## Download
 
-We are working on organizing our dataset for open source, stay tuned!
+We have already prepared our dataset. If you need it, please send an email to <liyk58@mail2.sysu.edu.cn> to obtain the download link.
 
 ## introduction
 
