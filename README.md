@@ -9,15 +9,15 @@ predictions as prior knowledge to human-like exploit the coupling-induced effect
 
 ## Citation
 If you find this work useful, please consider citing:
-<pre>
-<font color="red">@article</font>{<font color="blue">li2023cascaded</font>,
+```bibtex
+@article{li2023cascaded,
   title={Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose},
   author={Li, Yaokun and Tan, Guang and Gou, Chao},
   journal={International Journal of Computer Vision},
   pages={1--16},
   year={2023},
   publisher={Springer}
-}
+```
 </pre>
 In addition, please also consider citing the great [MERL-RAV](https://github.com/abhi1kumar/MERL-RAV_dataset), [AFLW](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/) dataset, and [face_alignment](https://github.com/1adrianb/face-alignment), who have been very supportive of our work. 
 
