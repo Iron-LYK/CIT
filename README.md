@@ -19,7 +19,8 @@ If you find this work useful, please consider citing:
   publisher={Springer}
 ```
 </pre>
-In addition, please also consider citing the great [MERL-RAV](https://github.com/abhi1kumar/MERL-RAV_dataset), [AFLW](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/) dataset, and [face_alignment](https://github.com/1adrianb/face-alignment), who have been very supportive of our work. 
+
+In addition, we highly recommend citing the great [MERL-RAV](https://github.com/abhi1kumar/MERL-RAV_dataset), [AFLW](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/) dataset, and [face_alignment](https://github.com/1adrianb/face-alignment), who have been very supportive of our work. 
 
 <!-- 
  -->
