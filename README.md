@@ -10,7 +10,7 @@ predictions as prior knowledge to human-like exploit the coupling-induced effect
 ## Citation
 If you find this work useful, please consider citing:
 <pre>
-@article{li2023cascaded,
+<font color="red">@article</font>{<font color="blue">li2023cascaded</font>,
   title={Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose},
   author={Li, Yaokun and Tan, Guang and Gou, Chao},
   journal={International Journal of Computer Vision},
