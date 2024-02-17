@@ -1,10 +1,23 @@
-# CIT
-This repo is the offical PyTorch implementation of “**Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose**”
+# Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose
+## Abstract
+<div align=center><img src="https://github.com/Iron-LYK/CIT/blob/main/assets/overview.jpg" width="300" height="450" /></div>
+Landmark detection under large pose with occlusion has been one of the challenging problems in the field of facial analysis. Recently, many works have predicted pose or occlusion together in the multi-task learning (MTL) paradigm, trying to tap into their dependencies and thus alleviate this issue. However, such implicit dependencies are weakly interpretable and inconsistent with the way humans exploit inter-task coupling relations, i.e., accommodating the induced explicit effects. This is one of the essentials that hinders their performance. To this end, in this paper, we propose a Cascaded Iterative Transformer (CIT) to jointly predict facial landmark, occlusion probability, and pose. The proposed CIT, besides implicitly mining task dependencies in a shared encoder, innovatively employs a cost-effective and portability-friendly strategy to pass the decoders’
+predictions as prior knowledge to human-like exploit the coupling-induced effects. Moreover, to the best of our knowledge, no dataset contains all these task annotations simultaneously, so we introduce a new dataset termed MERL-RAV-FLOP based on the MERL-RAV dataset. We conduct extensive experiments on several challenging datasets (300W-LP, AFLW2000-3D, BIWI, COFW, and MERL-RAV-FLOP) and achieve remarkable results.
 
-In this paper, we propose a Transformer-based multi-tasking model for Facial Landmark Detection, Occlusion Probability Estimation and Head Pose Estimation. A new dataset is likewise proposed.
-
+## Citation
+If you find this work useful, please consider citing:
+<pre>
+@article{li2023cascaded,
+  title={Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose},
+  author={Li, Yaokun and Tan, Guang and Gou, Chao},
+  journal={International Journal of Computer Vision},
+  pages={1--16},
+  year={2023},
+  publisher={Springer}
+}
+</pre>
+In addition, please also consider citing the great [MERL-RAV](https://github.com/abhi1kumar/MERL-RAV_dataset), [AFLW](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/) dataset, and [face_alignment](https://github.com/1adrianb/face-alignment), who have been very supportive of our work. 
 <!-- 
-
  -->
 # Dataset
 - [Download](##Download)
@@ -115,9 +128,6 @@ bbox_w, bbox_h = annotation[-2], annotation[-1]
 pose = annotation[-5:-2]
 visibility = annotation[-73:-5]
 </pre>
-
-## Notation
-If you find our dataset helpful, please consider citing the great [MERL-RAV](https://github.com/abhi1kumar/MERL-RAV_dataset), [AFLW](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/) dataset, and [face_alignment](https://github.com/1adrianb/face-alignment), who have been very supportive of our work. 
 
 ## Contact
 Feel free to contact <liyk58@mail2.sysu.edu.cn> if you have any doubts or questions.
