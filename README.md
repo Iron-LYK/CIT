@@ -28,7 +28,6 @@ In addition, we highly recommend citing the great [MERL-RAV](https://github.com/
 # Dataset
 - [Download](##Download)
 - [Instruction](##Instruction)
-- [Notation](##Notation)
 - [Contact](##Contact)
 
 
