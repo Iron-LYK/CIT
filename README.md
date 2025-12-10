@@ -1,5 +1,4 @@
 # Cascaded Iterative Transformer for Jointly Predicting Facial Landmark, Occlusion Probability and Head Pose
-## Official PyTorch implementation of the IJCV'23 paper
 [Paper](https://link.springer.com/article/10.1007/s11263-023-01935-2) | [Code](https://github.com/Iron-LYK/CIT)
 <div align=center><img src="https://github.com/Iron-LYK/CIT/blob/main/assets/overview.jpg" width="800" height="450" /></div>
 
